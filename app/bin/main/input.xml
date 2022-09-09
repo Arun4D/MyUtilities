@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ServiceResponse>
+    <ServiceStatus>
+        <Code>0</Code>
+        <Message>Success</Message>
+    </ServiceStatus>
+    <html>
+        <body>
+            <p>PDF Content</p>
+            <pdfcount>1</pdfcount>
+            <element1>
+                <header>
+                    <common>null</common>
+                    <middle>Important informtion</middle>
+                </header>
+                <LogOnHeader></LogOnHeader>
+                <pdfcontent>
+                    <ImgDocUri>/content/a</ImgDocUri>
+                    <div><br/></div><div>
+                    <ImgDocUri>/content/b</ImgDocUri>
+                    </div>
+                </pdfcontent>
+            </element1>
+        </body>
+    </html>
+</ServiceResponse>
